@@ -21,7 +21,6 @@
         <list>
           <option value="bool.astype" />
           <option value="skimage.img_as_float" />
-          <option value="app.sensors.schemas.SensorData.__getitem__" />
         </list>
       </option>
     </inspection_tool>
